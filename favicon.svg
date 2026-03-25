@@ -1,47 +1,8 @@
-<svg width="100%" viewBox="0 0 680 690" xmlns="http://www.w3.org/2000/svg"><defs><mask id="imagine-text-gaps-aj3h0w" maskUnits="userSpaceOnUse"><rect x="0" y="0" width="680" height="690" fill="white"/><rect x="119.10430908203125" y="553.091552734375" width="441.7913818359375" height="77.30581665039062" fill="black" rx="2"/><rect x="135.44891357421875" y="643.3899536132812" width="409.1021728515625" height="18.468253135681152" fill="black" rx="2"/></mask></defs>
-<rect width="680" height="680" fill="#0a0a0a" style="fill:rgb(10, 10, 10);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-
-<!-- Heart shadow/depth -->
-<path d="M340 560 C340 560 120 420 120 270 C120 190 180 140 240 140 C280 140 315 162 340 190 C365 162 400 140 440 140 C500 140 560 190 560 270 C560 420 340 560 340 560Z" fill="#1a0000" style="fill:rgb(26, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-
-<!-- Main heart body -->
-<path d="M340 545 C340 545 125 408 125 265 C125 188 183 138 243 138 C282 138 316 160 340 188 C364 160 398 138 437 138 C497 138 555 188 555 265 C555 408 340 545 340 545Z" fill="#1c1c1c" stroke="#c0392b" stroke-width="2.5" style="fill:rgb(28, 28, 28);stroke:rgb(192, 57, 43);color:rgb(255, 255, 255);stroke-width:2.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-
-<!-- Heart highlight left -->
-<path d="M200 180 C185 200 178 225 180 250" stroke="#333" stroke-width="1.5" fill="none" stroke-linecap="round" style="fill:none;stroke:rgb(51, 51, 51);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-
-<!-- CRACK LINES - main jagged crack down center -->
-<polyline points="340,210 332,245 348,268 328,295 344,330 330,365 342,400 334,440 340,480" stroke="#c0392b" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" style="fill:none;stroke:rgb(192, 57, 43);color:rgb(255, 255, 255);stroke-width:3px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-
-<!-- Crack branches left -->
-<polyline points="332,245 310,255 295,248" stroke="#c0392b" stroke-width="1.8" fill="none" stroke-linecap="round" style="fill:none;stroke:rgb(192, 57, 43);color:rgb(255, 255, 255);stroke-width:1.8px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-<polyline points="328,295 305,308 288,302" stroke="#c0392b" stroke-width="1.5" fill="none" stroke-linecap="round" style="fill:none;stroke:rgb(192, 57, 43);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-<polyline points="344,330 318,340" stroke="#c0392b" stroke-width="1.2" fill="none" stroke-linecap="round" style="fill:none;stroke:rgb(192, 57, 43);color:rgb(255, 255, 255);stroke-width:1.2px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-
-<!-- Crack branches right -->
-<polyline points="348,268 372,278 388,272" stroke="#c0392b" stroke-width="1.8" fill="none" stroke-linecap="round" style="fill:none;stroke:rgb(192, 57, 43);color:rgb(255, 255, 255);stroke-width:1.8px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-<polyline points="344,330 368,345 382,338" stroke="#c0392b" stroke-width="1.5" fill="none" stroke-linecap="round" style="fill:none;stroke:rgb(192, 57, 43);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-<polyline points="330,365 355,372" stroke="#c0392b" stroke-width="1.2" fill="none" stroke-linecap="round" style="fill:none;stroke:rgb(192, 57, 43);color:rgb(255, 255, 255);stroke-width:1.2px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-
-<!-- Red glow bleed through cracks -->
-<polyline points="340,210 332,245 348,268 328,295 344,330 330,365 342,400 334,440 340,480" stroke="#e74c3c" stroke-width="1" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.6" style="fill:none;stroke:rgb(231, 76, 60);color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;opacity:0.6;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-
-<!-- DOLLAR SIGN - green -->
-<path d="M315 295 C315 280 325 272 340 272 C355 272 368 280 368 295 C368 310 355 318 340 318 C325 318 312 326 312 342 C312 358 325 366 340 366 C355 366 368 358 368 342" stroke="#27ae60" stroke-width="8" fill="none" stroke-linecap="round" style="fill:none;stroke:rgb(39, 174, 96);color:rgb(255, 255, 255);stroke-width:8px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-<line x1="340" y1="258" x2="340" y2="278" stroke="#27ae60" stroke-width="8" stroke-linecap="round" style="fill:rgb(0, 0, 0);stroke:rgb(39, 174, 96);color:rgb(255, 255, 255);stroke-width:8px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-<line x1="340" y1="360" x2="340" y2="380" stroke="#27ae60" stroke-width="8" stroke-linecap="round" style="fill:rgb(0, 0, 0);stroke:rgb(39, 174, 96);color:rgb(255, 255, 255);stroke-width:8px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-
-<!-- Crack cuts through dollar sign - red slices -->
-<line x1="334" y1="258" x2="326" y2="300" stroke="#c0392b" stroke-width="2.5" stroke-linecap="round" style="fill:rgb(0, 0, 0);stroke:rgb(192, 57, 43);color:rgb(255, 255, 255);stroke-width:2.5px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-<line x1="346" y1="320" x2="336" y2="362" stroke="#c0392b" stroke-width="2" stroke-linecap="round" style="fill:rgb(0, 0, 0);stroke:rgb(192, 57, 43);color:rgb(255, 255, 255);stroke-width:2px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-
-<!-- WORDMARK -->
-<text x="340" y="612" font-family="'Arial Black', sans-serif" font-size="52" font-weight="900" fill="#e8e0d8" text-anchor="middle" letter-spacing="12" style="fill:rgb(232, 224, 216);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Arial Black&quot;, sans-serif;font-size:52px;font-weight:900;text-anchor:middle;dominant-baseline:auto">DEATHBILL</text>
-
-<!-- Red underline accent -->
-<line x1="160" y1="626" x2="520" y2="626" stroke="#c0392b" stroke-width="2" mask="url(#imagine-text-gaps-aj3h0w)" style="fill:rgb(0, 0, 0);stroke:rgb(192, 57, 43);color:rgb(255, 255, 255);stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-
-<!-- Tagline -->
-<text x="340" y="656" font-family="'Courier New', monospace" font-size="13" fill="#7a7068" text-anchor="middle" letter-spacing="4" style="fill:rgb(122, 112, 104);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Courier New&quot;, monospace;font-size:13px;font-weight:400;text-anchor:middle;dominant-baseline:auto">PAY YOUR BILL OR WAIT FOR THE WIPE</text>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="#0a0a0a"/>
+  <path d="M50 82 C50 82 15 60 15 38 C15 25 25 16 36 16 C43 16 48 20 50 25 C52 20 57 16 64 16 C75 16 85 25 85 38 C85 60 50 82 50 82Z" fill="#c0392b"/>
+  <line x1="50" y1="28" x2="50" y2="36" stroke="#27ae60" stroke-width="5" stroke-linecap="round"/>
+  <path d="M38 42 C38 37 44 34 50 34 C56 34 62 37 62 42 C62 47 56 50 50 50 C44 50 38 53 38 58 C38 63 44 66 50 66 C56 66 62 63 62 58" stroke="#27ae60" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <line x1="50" y1="64" x2="50" y2="72" stroke="#27ae60" stroke-width="5" stroke-linecap="round"/>
+  <line x1="42" y1="38" x2="58" y2="70" stroke="#0a0a0a" stroke-width="3" stroke-linecap="round"/>
 </svg>
