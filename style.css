@@ -1,5 +1,5 @@
 /* ============================================
-   DeathBill — style.css
+   DeathBill - style.css
    ============================================ */
 
 /* ── VARIABLES ── */
@@ -489,7 +489,7 @@ section {
 }
 
 .store-features li::before {
-    content: '—';
+    content: '-';
     color: var(--red);
     font-family: 'JetBrains Mono', monospace;
 }

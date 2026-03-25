@@ -1,5 +1,5 @@
 /* ============================================
-   DeathBill — main.js
+   DeathBill - main.js
    ============================================ */
 
 // ── CONFIG ──────────────────────────────────
@@ -23,12 +23,12 @@ async function fetchServerStatus() {
             statusEl.innerHTML   = '<span class="status-dot"></span>Online';
             statusEl.className   = 'status-value online';
             playersEl.textContent = `${data.players?.online ?? 0} / ${data.players?.max ?? 0}`;
-            versionEl.textContent = data.version ?? '—';
+            versionEl.textContent = data.version ?? '-';
         } else {
             statusEl.textContent  = 'Offline';
             statusEl.className    = 'status-value offline';
             playersEl.textContent = '0';
-            versionEl.textContent = '—';
+            versionEl.textContent = '-';
         }
     } catch (e) {
         document.getElementById('server-status').textContent = 'Unknown';
@@ -59,7 +59,7 @@ async function fetchTebexPackages() {
             document.getElementById('package-price').textContent = parseFloat(price).toFixed(0);
             document.getElementById('package-name').textContent  = name;
             document.getElementById('package-desc').textContent  = cleanDesc;
-            document.getElementById('store-btn').textContent     = `Purchase Revival — $${parseFloat(price).toFixed(2)}`;
+            document.getElementById('store-btn').textContent     = `Purchase Revival - $${parseFloat(price).toFixed(2)}`;
 
             // Store package ID for checkout
             document.getElementById('store-btn').dataset.packageId = pkg.id;
@@ -76,7 +76,7 @@ function openCheckout() {
     const iframe  = document.getElementById('checkout-frame');
 
     // Load Tebex checkout in iframe
-    iframe.src = `https://checkout.tebex.io/checkout/packages/add/${document.getElementById('store-btn').dataset.packageId ?? ''}/single?embed=1`;
+    iframe.src = 'https://deathbillnet.tebex.io/';
     overlay.classList.add('active');
     document.body.style.overflow = 'hidden';
 }
