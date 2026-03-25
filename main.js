@@ -59,10 +59,10 @@ async function fetchTebexPackages() {
             document.getElementById('package-price').textContent = parseFloat(price).toFixed(0);
             document.getElementById('package-name').textContent  = name;
             document.getElementById('package-desc').textContent  = cleanDesc;
-            document.getElementById('store-btn').textContent     = `Purchase Revival - $${parseFloat(price).toFixed(2)}`;
+            document.getElementById('store-btn').textContent = `Purchase Revival - $${parseFloat(price).toFixed(2)}`;
 
             // Store package ID for checkout
-            document.getElementById('store-btn').dataset.packageId = pkg.id;
+            
         }
     } catch (e) {
         console.log('Tebex fetch failed, using defaults');
