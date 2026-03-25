@@ -70,34 +70,10 @@ async function fetchTebexPackages() {
 }
 
 
-// ── TEBEX CHECKOUT MODAL ─────────────────────
+// ── TEBEX CHECKOUT ───────────────────────────
 function openCheckout() {
-    const overlay = document.getElementById('checkout-overlay');
-    const iframe  = document.getElementById('checkout-frame');
-
-    // Load Tebex checkout in iframe
-    iframe.src = 'https://deathbillnet.tebex.io/';
-    overlay.classList.add('active');
-    document.body.style.overflow = 'hidden';
+    window.open('https://deathbillnet.tebex.io/', '_blank');
 }
-
-function closeCheckout() {
-    const overlay = document.getElementById('checkout-overlay');
-    const iframe  = document.getElementById('checkout-frame');
-    overlay.classList.remove('active');
-    iframe.src = '';
-    document.body.style.overflow = '';
-}
-
-// Close on overlay click
-document.getElementById('checkout-overlay')?.addEventListener('click', (e) => {
-    if (e.target === e.currentTarget) closeCheckout();
-});
-
-// Close on Escape key
-document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape') closeCheckout();
-});
 
 
 // ── WIPE COUNTDOWN ───────────────────────────
